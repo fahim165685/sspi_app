@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433154276012",
+    "project_id": "sspi-fahim",
+    "storage_bucket": "sspi-fahim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433154276012:android:1325911fe0ef4041683d09",
+        "android_client_info": {
+          "package_name": "com.example.sspi.sspi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433154276012-lo65v36fg6b9d828sde792ipufmmshkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJJAgM2hcfLL95NdKgWS-3sk_DvqZd0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433154276012-lo65v36fg6b9d828sde792ipufmmshkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
